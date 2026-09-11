@@ -1,0 +1,8 @@
+{
+  "name": "GlassBreaker - ASMR Shatter Simulator",
+  "description": "Satisfying interactive glass breaking game with realistic crack physics, tactile ASMR audio synthesis, 10 progressive levels, unlockable glass types, power-ups, and global competition export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
